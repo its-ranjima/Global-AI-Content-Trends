@@ -1,5 +1,7 @@
 # 🌍 Global AI Content (2020–2025) - EDA
 
+![Image](https://github.com/user-attachments/assets/d35344a6-059a-4973-93f4-fc88ca67f996)
+
 Exploratory Data Analysis on Global AI Content Trends from 2020 to 2025, using visualizations and key insights to understand global developments, regional patterns, and yearly progressions in Artificial Intelligence.
 
 ## 📌 Objective
